@@ -4,8 +4,13 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+
+
 body {
     overflow-x: hidden;
+    background-image: url("img/bg.png");
+    background-repeat: repeat;
+    background-size: 600px, auto;
 }
 
 p {
